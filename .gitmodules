@@ -1,0 +1,4 @@
+[submodule "wahbakamaluddinblog/public"]
+	path = wahbakamaluddinblog/public
+	url = https://github.com/wahbakamaluddin/wahbakamaluddin.github.io.git
+	branch = main
