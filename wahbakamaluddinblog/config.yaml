@@ -1,6 +1,7 @@
 baseURL: "https://wahbakamaluddin.github.io/"
 title: wahba
-paginate: 5
+pagination:
+  papersize: 5
 theme: [PaperMod]
 
 languages:
