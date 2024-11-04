@@ -2,3 +2,6 @@
 	path = wahbakamaluddinblog/public
 	url = https://github.com/wahbakamaluddin/wahbakamaluddin.github.io.git
 	branch = main
+[submodule "wahbakamaluddinblog/themes/PaperMod"]
+	path = wahbakamaluddinblog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

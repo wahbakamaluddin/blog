@@ -1,19 +1,39 @@
 baseURL: "https://wahbakamaluddin.github.io/"
-languageCode: "en-us"
-title: "Wahba Kamaluddin"
-theme: "hugo-PaperMod"
+title: wahba
+paginate: 5
+theme: [hugo-PaperMod]
 
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        # - name: WiKi
+        #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+    params:
+      homeInfoParams:
+        Title: "hi"
+        Content: >
+          Just sharing cool computer science stuff that might come in handy for students—notes, writeups, and random finds. Hope it helps!
+          -- STILL UNDER CONSTRUCTION --
+      socialIcons:
+        - name: github
+          title: check out my GitHub
+          url: "https://github.com/wahbakamaluddin"
+        - name: "youtube"
+          title: Check out my youtube channel
+          url: "https://www.youtube.com/@wahbakamaluddin"
