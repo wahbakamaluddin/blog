@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra"
-summary: "Notes on data linear algebra"
+summary: Notes on data linear algebra
 date: 2023-10-21
 series: ["Notes"]
 weight: 1
@@ -9,7 +9,7 @@ tags: ["Notes"]
 author: ["Wahba Kamaluddin"]
 ---
 
-[⏬ Download PDF](pdf/Linear Algebra - SN.pdf)
+[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/Linear%20Algebra%20-%20SN.pdf)
 
 ![image](images/university-notes/linear-algebra/02.jpg)
 ![image](images/university-notes/linear-algebra/03.jpg)
