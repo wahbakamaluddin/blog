@@ -46,3 +46,11 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    codeFences: true
+    lineNos: true
+    style: monokai
