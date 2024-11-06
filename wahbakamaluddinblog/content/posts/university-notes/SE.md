@@ -5,7 +5,7 @@ date: 2024-08-04
 series: ["Notes"]
 weight: 1
 aliases: ["/SE"]
-tags: ["Notes"]
+tags: ["Notes", "Undergraduate"]
 author: ["Wahba Kamaluddin"]
 ---
 

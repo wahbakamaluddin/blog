@@ -5,7 +5,7 @@ date: 2023-05-05
 series: ["Notes"]
 weight: 1
 aliases: ["/DSA"]
-tags: ["Notes"]
+tags: ["Notes", "Undergraduate"]
 author: ["Wahba Kamaluddin"]
 ---
 
