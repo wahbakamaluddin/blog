@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra"
-summary: Notes on data linear algebra
+summary: Notes on linear algebra
 date: 2023-10-21
 series: ["Notes"]
 weight: 1
