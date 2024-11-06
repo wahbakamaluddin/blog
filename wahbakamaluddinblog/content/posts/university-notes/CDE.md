@@ -259,9 +259,4 @@ author: ["Wahba Kamaluddin"]
 - 4.9 Arithmetic Circuits
   ![Screenshot 2023-06-01 at 2.34.40 PM.png](images/university-notes/CDE/Screenshot_2023-06-01_at_2.34.40_PM.png)
 
-      - *might be out in exam, label*
-      - When we press a key, it will be passed to memory
-      - Memory(Ram, CPU) will communicate to
-      - Accumulator -
-
   {{</ collapse >}}
