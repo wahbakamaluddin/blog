@@ -9,7 +9,7 @@ tags: ["Notes", "Foundation"]
 author: ["Wahba Kamaluddin"]
 ---
 
-[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/university-note/F&G-SN.pdf)
+[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/university-note/AdvancedPhysics-SN.pdf)
 
 ![image](images/university-notes/advanced-physics/02.jpg)
 ![image](images/university-notes/advanced-physics/03.jpg)
