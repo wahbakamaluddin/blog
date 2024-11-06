@@ -9,7 +9,7 @@ tags: ["Notes"]
 author: ["Wahba Kamaluddin"]
 ---
 
-[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/Linear%20Algebra%20-%20SN.pdf)
+[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/university-note/Linear%20Algebra%20-%20SN.pdf)
 
 ![image](images/university-notes/linear-algebra/02.jpg)
 ![image](images/university-notes/linear-algebra/03.jpg)

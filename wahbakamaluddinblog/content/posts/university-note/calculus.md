@@ -9,7 +9,7 @@ tags: ["Notes"]
 author: ["Wahba Kamaluddin"]
 ---
 
-[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/Linear%20Algebra%20-%20SN.pdf)
+[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/university-note/Calculus%20-%20SN.pdf)
 
 ![image](images/university-notes/calculus/01.jpg)
 ![image](images/university-notes/calculus/02.jpg)
@@ -18,4 +18,3 @@ author: ["Wahba Kamaluddin"]
 ![image](images/university-notes/calculus/05.jpg)
 ![image](images/university-notes/calculus/06.jpg)
 ![image](images/university-notes/calculus/07.jpg)
-
