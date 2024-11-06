@@ -29,8 +29,7 @@ languages:
       homeInfoParams:
         Title: "hi"
         Content: >
-          Just sharing cool computer science stuff that might come in handy for students—notes, writeups, and random finds. Hope it helps!
-          -- STILL UNDER CONSTRUCTION --
+          I'll share some cs stuffs that might come in handy for students — notes, writeups, and random finds. Hope it helps!
       socialIcons:
         - name: github
           title: check out my GitHub

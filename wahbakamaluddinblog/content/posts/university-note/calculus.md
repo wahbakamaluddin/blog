@@ -9,7 +9,7 @@ tags: ["Notes"]
 author: ["Wahba Kamaluddin"]
 ---
 
-[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/university-note/Calculus%20-%20SN.pdf)
+[⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/university-note/Calculus-SN.pdf)
 
 ![image](images/university-notes/calculus/01.jpg)
 ![image](images/university-notes/calculus/02.jpg)
