@@ -29,7 +29,7 @@ languages:
       homeInfoParams:
         Title: "hi"
         Content: >
-          I'm sharing some cs stuffs that might come handy for students - notes, ctf writeups, and random findings. Hope it helps!
+          I'm sharing various CS topics that might come in handy for students, including notes from my foundation to undergraduate studies, CTF writeups, and other interesting finds. Hope it helps!
       socialIcons:
         - name: github
           title: check out my GitHub
