@@ -40,7 +40,7 @@ languages:
         - name: "linkedin"
           title: Check out my linkedin
           url: "https://www.linkedin.com/in/wahbakamaluddin/"
-      ShowShareButtons: true
+      # ShowShareButtons: true
       ShowCodeCopyButtons: true
 outputs:
   home:
