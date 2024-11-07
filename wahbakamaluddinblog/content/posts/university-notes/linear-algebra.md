@@ -11,6 +11,7 @@ author: ["Wahba Kamaluddin"]
 
 [⏬ Download PDF](https://github.com/wahbakamaluddin/blog/blob/main/wahbakamaluddinblog/assets/pdf/university-note/LinearAlgebra-SN.pdf)
 
+![image](images/university-notes/linear-algebra/01.jpg)
 ![image](images/university-notes/linear-algebra/02.jpg)
 ![image](images/university-notes/linear-algebra/03.jpg)
 ![image](images/university-notes/linear-algebra/04.jpg)
