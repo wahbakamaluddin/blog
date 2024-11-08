@@ -27,7 +27,7 @@ languages:
         #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
     params:
       homeInfoParams:
-        Title: "hi"
+        Title: "print('hi')"
         Content: >
           I'm sharing various CS topics that might come in handy for students, including notes from my foundation to undergraduate studies, CTF writeups, and other interesting finds. Hope it helps!
       socialIcons:
