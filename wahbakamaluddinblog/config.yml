@@ -30,6 +30,11 @@ languages:
         Title: "print('hi')"
         Content: >
           I'm sharing various CS topics that might come in handy for students, including notes from my foundation to undergraduate studies, CTF writeups, and other interesting finds. Hope it helps!
+        buttons:
+          - name: Archive
+            url: "/archive"
+          - name: Github
+            url: "https://github.com/"
       socialIcons:
         - name: github
           title: check out my GitHub
@@ -44,6 +49,8 @@ languages:
           title: Check out my linkedin
           url: "https://www.linkedin.com/in/wahbakamaluddin/"
       # ShowShareButtons: true
+      ShowReadingTime: true
+      ShowBreadCrumbs: true
       ShowCodeCopyButtons: true
       assets:
         favicon: "/favicon.ico"
